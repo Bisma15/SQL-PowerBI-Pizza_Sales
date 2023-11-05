@@ -4,7 +4,7 @@ Project Title: Pizza Sales and Revenue Analysis
 
 Project Overview:
 
-This project analyzed pizza sales and revenue data using SQL, Power BI, and DAX functions. We uncovered key insights to enhance business decisions.
+This project dives into the world of pizza sales and revenue using SQL, Power BI, and DAX functions. My goal was to turn data into valuable insights, just like your favorite pizza turns ingredients into a delicious meal.
 
 Key Findings:
 
